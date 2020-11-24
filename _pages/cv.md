@@ -51,7 +51,8 @@ Education
   
 Honors and Awards
 ======
-* Best Thesis Award for Outstanding Ph.D. Thesis from Chinese Image Processing and Pattern Recognition Society, 2020
+* Best Ph.D. Thesis Award from Taiwanese Association for Consumer Electronics (TACE), 2020
+* Best Thesis Award for Outstanding Ph.D. Thesis from Chinese Image Processing and Pattern Recognition Society (IPPR), 2020
 * Golden Medal Award, Taiwan Innotech Expo Invention Contest, 2019
 * Special prize schloarship from Fuzhou University, 2018
 * Best Thesis Award for Outstanding M.S. Thesis from Fuzhou University, 2018
@@ -64,7 +65,7 @@ Journal articles
 ======
 * **J. L. Yin**, B. Chen, Y. Peng and C. Tsai, ``Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement,'' IEEE Transactions on Multimedia. (In press)
 * **J. L. Yin**, B. Chen, and K. Lai, ``Driver Danger-Level Monitoring System Using Multi-Sourced Big Driving Data,'' IEEE Transactions on Intelligent Transportation Systems. (In press)
-* **J. L. Yin**, Y. Huang, B. Chen, and S. Ye, ``Color Transferred Convolutional Neural Networks for Image Dehazing,'' IEEE Transactions on Circuits and Systems for Video Technology. (In press)
+* **J. L. Yin**, Y. Huang, B. Chen, and S. Ye, ``Color Transferred Convolutional Neural Networks for Image Dehazing,'' IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 11, pp. 3957-3967, Nov. 2020.
 * **J. L. Yin**, B. Chen, E. Lai, and L. Shi, ``Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization,'' IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 8, pp. 2477-2488, Aug. 2020.
 * **J. L. Yin** and B. Chen, ``An Advanced Driver Risk Measurement System for Usage-Based Insurance on Big Driving Data,'' IEEE Transactions on Intelligent Vehicles, vol. 3, no. 4, pp. 585--594, Dec. 2018.
 * **J. L. Yin**, B. Chen, and Y. Li, ``Highly Accurate Image Reconstruction for Multimodal Noise Suppression Using Semisupervised Learning on Big Data,'' IEEE Transactions on Multimedia, vol. 20, no. 11, pp. 3045--3056, Nov. 2018.
