@@ -7,15 +7,15 @@ author_profile: true
 <br>
 <img src='/images/yin_tmm20_pcce-1.png' width="170" style="float: left; margin: 15px">
 **Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement**.  
-J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai
+J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai  
 IEEE Transactions on Multimedia 
 [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
 <br>
 <br>
 <img src='/images/chen_tits21_restoration.png' width="170" style="float: left; margin: 15px"> 
-**Deep Trident Decomposition Network for Single License Plate Image Glare Removal**.
-B. H. Chen, S. Ye, J. L. Yin, H. Y. Cheng and D. Chen
-IEEE Transactions on Intelligent Transportation Systems
+**Deep Trident Decomposition Network for Single License Plate Image Glare Removal**.  
+B. H. Chen, S. Ye, J. L. Yin, H. Y. Cheng and D. Chen  
+IEEE Transactions on Intelligent Transportation Systems  
 [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[bib]](/files/chen_tits21_restoration.html) [[code]](https://github.com/bigmms/chen_tits21)
 <br>
 <br>
