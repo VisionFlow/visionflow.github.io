@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
 <img src='/images/yin_tmm20_pcce-1.png' width="170" style="float: left; margin: 15px">
 **Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement**.  
 J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai  
