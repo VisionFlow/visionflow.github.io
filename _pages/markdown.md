@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-author_profile: false
+author_profile: True
 redirect_from: 
   - /md/
   - /markdown.html
@@ -19,11 +19,14 @@ Master Candidate
 <img src='/images/chen_bin.jpg' width="120" style="float: left; margin: 15px">
 Bin Chen
 <br>
+<br>
 <img src='/images/menghao_chen-1.jpg' width="120" style="float: left; margin: 15px">
 Menghao Chen
 <br>
+<br>
 <img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
 Wanqing Zhu
+<br>
 <br>
 <img src='/images/hu_zhaozhe.jpg' width="120" style="float: left; margin: 15px">
 Zhaozhe Hu
