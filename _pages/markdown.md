@@ -8,7 +8,7 @@ redirect_from:
 ---
 Faculty
 ======
-
+<br>
 <img src='/images/Yin.JPG' width="100" style="float: left; margin: 15px">
 Dr. Jia-Li Yin  
 Assistant Professor, College of Mathematics and Computer Science  
