@@ -16,6 +16,9 @@ Email: jlyin AT fzu.edu.cn
 
 Master Candidate
 -----
-<img src='/images/chen_bin.jpg' width="120" style="float: left; margin: 15px"><img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
+<img src='/images/chen_bin.jpg' width="120" style="float: left; margin: 15px">
+<img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
+<img src='/images/hu_zhaozhe.jpg' width="120" style="float: left; margin: 15px">
+<img src='/images/menghao_chen-1.jpg' width="120" style="float: left; margin: 15px">
 
 
