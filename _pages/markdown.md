@@ -15,6 +15,7 @@ Fuzhou University, Fuzhou, China <br>
 Email: jlyin AT fzu.edu.cn
 <br>
 <br>
+<br>
 
 Master Candidate
 -----
@@ -31,7 +32,7 @@ Menghao Chen <br>
 Master student <br>
 Computer vision, deep learning
 <br>
-<br>
+<br> 
 <img src='/images/zhu_wanqing.jpg' width="100" style="float: left; margin: 15px">
 <br>
 Wanqing Zhu <br>
@@ -44,6 +45,7 @@ Deep learning, Adversarial training
 Zhaozhe Hu <br>
 Master student <br>
 Deep learning, Adversarial training
+<br>
 <br>
 <br>
 
