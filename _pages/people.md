@@ -1,4 +1,5 @@
 ---
+title: "People"
 permalink: /people/
 author_profile: False
 redirect_from: 
