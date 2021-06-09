@@ -31,6 +31,7 @@ Master student <br>
 Computer vision, deep learning
 <br>
 <br>
+<br>
 <img src='/images/menghao_chen-1.jpg' width="120" style="float: left; margin: 15px">
 <br>
 Menghao Chen <br>
