@@ -11,7 +11,7 @@ author_profile: true
 Faculty
 -----
 
-<img src='/images/Yin.JPG' width="120" style="float: left; margin: 15px">
+<img src='/images/Yin.JPG' width="100" style="float: left; margin: 15px">
 <br>
 Dr. Jia-Li Yin <br>
 Assistant Professor, College of Mathematics and Computer Science <br>
