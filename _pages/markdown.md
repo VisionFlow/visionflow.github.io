@@ -7,12 +7,13 @@ redirect_from:
 ---
 Faculty
 -----
-<img src='/images/Yin.JPG' width="100" style="float: left; margin: 15px">
+<img src='/images/Yin.JPG' width="120" style="float: left; margin: 15px">
 <br>
 Dr. Jia-Li Yin <br>
 Assistant Professor, College of Mathematics and Computer Science <br>
 Fuzhou University, Fuzhou, China <br>
 Email: jlyin AT fzu.edu.cn
+<br>
 <br>
 
 Master Candidate
@@ -43,7 +44,6 @@ Deep learning, Adversarial training
 Zhaozhe Hu <br>
 Master student <br>
 Deep learning, Adversarial training
-<br>
 <br>
 <br>
 
