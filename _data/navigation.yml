@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Projects"
-    url: /publications/
+    url: /projects/
     
   - title: "People"
-    url: /markdown/
+    url: /people/
     
   - title: "Publication"
-    url: /cv/
+    url: /publication/
     
   - title: "Talks"
     url: /talks/    
