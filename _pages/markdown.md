@@ -18,21 +18,21 @@ Master Candidate
 -----
 <img src='/images/chen_bin.jpg' width="100" style="float: left; margin: 15px">
 <br>
-Yu-Wen Tsai <br>
-PhD student <br>
-Computer Science Department
+Bin Chen <br>
+Master student <br>
+Computer vision, deep learning
 <br>
 <br>
 <img src='/images/menghao_chen-1.jpg' width="100" style="float: left; margin: 15px">
 <br>
-Joe Cheng <br>
-PhD student <br>
-Computer Science Department
+Menghao Chen <br>
+Master student <br>
+Computer vision, deep learning
 <br>
 <br>
 <img src='/images/hu_zhaozhe.jpg' width="100" style="float: left; margin: 15px">
 <br>
-Wayne Cheng <br>
+Zhaozhe Hu <br>
 PhD student <br>
 Computer Science Department
 <br>
