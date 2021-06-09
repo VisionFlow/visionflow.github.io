@@ -23,3 +23,16 @@ News
 [[Paper]](https://ieeexplore.ieee.org/document/8915711) Our work on driving assistant system has been accepted to IEEE TITS.  
 [[Award]](https://cloudcdn.taiwantradeshows.com.tw/2019/inst/download/2019-winner.pdf) The proposed image denosing system won the Gold Medal Award in 2019 Taiwan Innotech Expo Invention Contest.
 
+<!-- Default Statcounter code for group https://visionflow.github.io/ -->
+<script type="text/javascript">
+var sc_project=12546156; 
+var sc_invisible=1; 
+var sc_security="8f1abcc2"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+StatCounter" href="https://statcounter.com/" target="_blank"><img
+class="statcounter" src="https://c.statcounter.com/12546156/0/8f1abcc2/1/"
+alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
