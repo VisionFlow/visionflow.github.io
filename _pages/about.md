@@ -12,7 +12,7 @@ We are VisionFlow group affiliated with Information Security of Network Systems 
 
 **Note to prospective students**:
 
-We are looking for undergraduate and graduate students who are ready to explore the vision world with exploratory and indefatigable minds.
+We are looking for undergraduate and graduate students who are ready to explore the vision world with exploratory and indefatigable minds.  
 If you are interested in working in our group, feel free to send me an email or come by my office.
 
 
