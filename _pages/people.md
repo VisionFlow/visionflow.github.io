@@ -38,7 +38,6 @@ Master student <br>
 Computer vision, deep learning  
 <br>
 <br>
-<br>
 <img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
 <br>   
 Wanqing Zhu <br>
