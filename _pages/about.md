@@ -10,8 +10,7 @@ redirect_from:
 
 We are VisionFlow group affiliated with Information Security of Network Systems Laboratory in the College of Mathematics and Computer Science at Fuzhou University. We study computer vision, deep learning, and machine learning with the goal of applying academic competence and programming skills to devise a better problem-solving method for challenging tasks. We have closely collarborated with [Dr. Bo-Hao Chen](https://bigmms.github.io/) in YuanZe University, Taiwan, [Dr. Yan-Tsung Peng](https://www.cs.nccu.edu.tw/~ytpeng/) in National Chengchi University, Taiwan, and [Dr. Chung-Chi Tsai](https://github.com/chungchi) in  Qualcomm Technologies Inc., USA, from 2019. 
 
-**Note to prospective students**:
-
+**Note to prospective students**:  
 We are looking for undergraduate and graduate students who are ready to explore the vision world with exploratory and indefatigable minds.  
 If you are interested in working in our group, feel free to send me an email or come by my office.
 
