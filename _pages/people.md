@@ -44,7 +44,8 @@ Wanqing Zhu <br>
 Master student <br>
 Deep learning, Adversarial training  
 <br>  
-<br>  
+<br>
+
 <img src='/images/hu_zhaozhe.jpg' width="120" style="float: left; margin: 15px">
 <br>
 Zhaozhe Hu <br>
