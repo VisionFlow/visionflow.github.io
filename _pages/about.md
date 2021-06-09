@@ -12,7 +12,7 @@ We are VisionFlow group affiliated with Information Security of Network Systems 
 
 News
 ======
-[[Paper]](http://lily001ying.github.io/files/ICME_2020_HDR.pdf) Our work on automatic intermediate image generation for HDR image has been accpeted to IEEE TNNLS.  
+[[Paper]](http://lily001ying.github.io/files/ICME_2020_HDR.pdf) Our work on automatic intermediate image generation for HDR image has been accpeted to IEEE TNNLS 2021.  
 [[Code]](https://github.com/bigmms/prior_guided_network_hdr) Tensorflow implementation for the prior-guided image fusion network.  
 [[Paper]](http://lily001ying.github.io/files/ICME_2020_HDR.pdf) Our work on prior-guided image fusion network has been accpeted to ICME 2020.  
 [[Paper]](https://ieeexplore.ieee.org/document/8915711) Our work on driving assistant system has been accepted to IEEE TITS.  
