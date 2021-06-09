@@ -9,9 +9,6 @@ main:
   - title: "Publication"
     url: /publication/
     
-  - title: "Talks"
-    url: /talks/    
-    
   - title: "Misc"
     url: /misc/    
 
