@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We are VisionFlow group in the College of Mathematics and Computer Science at Fuzhou University. We study computer vision, deep learning, and machine learning with the goal of applying academic competence and programming skills to devise a better problem-solving method for challenging tasks. We have closely collarborated with [Dr. Bo-Hao Chen](https://bigmms.github.io/) in YuanZe University, Taiwan, [Dr. Yan-Tsung Peng](https://www.cs.nccu.edu.tw/~ytpeng/) in National Chengchi University, Taiwan, and [Dr. Chung-Chi Tsai](https://github.com/chungchi) in  Qualcomm Technologies Inc., USA, from 2019. 
+We are VisionFlow group affiliated with Information Security of Network Systems Laboratory in the College of Mathematics and Computer Science at Fuzhou University. We study computer vision, deep learning, and machine learning with the goal of applying academic competence and programming skills to devise a better problem-solving method for challenging tasks. We have closely collarborated with [Dr. Bo-Hao Chen](https://bigmms.github.io/) in YuanZe University, Taiwan, [Dr. Yan-Tsung Peng](https://www.cs.nccu.edu.tw/~ytpeng/) in National Chengchi University, Taiwan, and [Dr. Chung-Chi Tsai](https://github.com/chungchi) in  Qualcomm Technologies Inc., USA, from 2019. 
 
 News
 ======
