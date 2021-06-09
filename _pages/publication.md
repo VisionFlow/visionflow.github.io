@@ -7,8 +7,11 @@ author_profile: true
 2021
 ----
 _Jia-Li Yin_; Bo-Hao Chen ; Yan-Tsung Peng ; Hau Hwang; Automatic Intermediate Generation with Deep Reinforcement Learning for Robust Two-exposure Image Fusion, IEEE Transactions on Neural Networks and Learning Systems (_TNNLS_). (In press)
+
 _Jia-Li Yin_; Bo-Hao Chen ; Yan-Tsung Peng ; Two Exposure Fusion Using Prior-Aware Generative Adversarial Network, IEEE Transactions on Multimedia (_TMM_). (In press)  
+
 B. H. Chen, S. Ye, _J. L. Yin_, H. Y. Cheng and D. Chen, “Deep Trident Decomposition Network for Single License Plate Image Glare Removal,” IEEE Transactions on Intelligent Transportation Systems (_TITS_). (In press)
+
 _J. L. Yin_, B. Chen, Y. Peng, and C. Tsai, Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement, IEEE Transactions on Multimedia (_TMM_), 2021, 23: 1049-105  
 
 2020
