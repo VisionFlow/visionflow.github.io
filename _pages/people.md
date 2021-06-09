@@ -28,8 +28,7 @@ Master Candidate
 <br>
 Bin Chen <br>
 Master student <br>
-Computer vision, deep learning
-<br>
+Computer vision, deep learning  
 <br>
 <br>
 <img src='/images/menghao_chen-1.jpg' width="120" style="float: left; margin: 15px">
