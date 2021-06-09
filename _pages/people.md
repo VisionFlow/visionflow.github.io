@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-author_profile: False
+author_profile: true
 redirect_from: 
   - /md/
   - /people.html
