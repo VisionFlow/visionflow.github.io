@@ -36,15 +36,15 @@ Computer vision, deep learning
 Menghao Chen <br>
 Master student <br>
 Computer vision, deep learning  
-<br> 
-<br> 
+<br>
+<br>
 <img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
-<br>   
+<br>
 Wanqing Zhu <br>
 Master student <br>
 Deep learning, Adversarial training  
-<br> 
-<br> 
+<br>
+<br>
 <img src='/images/hu_zhaozhe.jpg' width="120" style="float: left; margin: 15px">
 <br>
 Zhaozhe Hu <br>
