@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 <img src='/images/yin_tmm20_pcce-1.png' width="170" style="float: left; margin: 15px">
