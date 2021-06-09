@@ -35,7 +35,7 @@ Computer vision, deep learning
 <br>
 Menghao Chen <br>
 Master student <br>
-Computer vision, deep learning  
+Computer vision, deep learning   
 <br>
 <br>
 <img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
