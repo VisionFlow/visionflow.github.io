@@ -1,9 +1,9 @@
 ---
-permalink: /markdown/
-author_profile: True
+permalink: /people/
+author_profile: False
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /people.html
 ---
 Faculty
 -----
