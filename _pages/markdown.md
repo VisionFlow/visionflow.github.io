@@ -16,20 +16,27 @@ Email: jlyin AT fzu.edu.cn
 
 Master Candidate
 -----
-<img src='/images/chen_bin.jpg' width="120" style="float: left; margin: 15px">
-Bin Chen
+<img src='/images/chen_bin.jpg' width="100" style="float: left; margin: 15px">
+<br>
+Yu-Wen Tsai <br>
+PhD student <br>
+Computer Science Department
 <br>
 <br>
-<img src='/images/menghao_chen-1.jpg' width="120" style="float: left; margin: 15px">
-Menghao Chen
+<img src='/images/menghao_chen-1.jpg' width="100" style="float: left; margin: 15px">
+<br>
+Joe Cheng <br>
+PhD student <br>
+Computer Science Department
 <br>
 <br>
-<img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
-Wanqing Zhu
+<img src='/images/hu_zhaozhe.jpg' width="100" style="float: left; margin: 15px">
+<br>
+Wayne Cheng <br>
+PhD student <br>
+Computer Science Department
 <br>
 <br>
-<img src='/images/hu_zhaozhe.jpg' width="120" style="float: left; margin: 15px">
-Zhaozhe Hu
 <br>
 
 
