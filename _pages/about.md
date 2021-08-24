@@ -12,7 +12,7 @@ We are VisionFlow group affiliated with Information Security of Network Systems 
 
 **Note to prospective students**:  
 We are looking for undergraduate and graduate students who are ready to explore the vision world with exploratory and indefatigable minds.  
-If you are interested in working in our group, feel free to send me an email (jlyin@fzu.edu) or come by my office (2#401, College of Computer Sicence and Big Data, Fuzhou University).
+If you are interested in working in our group, feel free to send me an email (jlyin@fzu.edu.cn) or come by my office (2#401, College of Computer Sicence and Big Data, Fuzhou University).
 
 
 News
