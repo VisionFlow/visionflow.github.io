@@ -28,14 +28,21 @@ Master Candidate
 <br>
 Bin Chen <br>
 Master student <br>
-Computer vision, deep learning  
+Feature representation, high dynamic range imaging, deep learning  
 <br>
 <br>
 <img src='/images/menghao_chen-1.jpg' width="120" style="float: left; margin: 15px">
 <br>
 Menghao Chen <br>
 Master student <br>
-Computer vision, deep learning    
+Feature representation, high dynamic range imaging, deep learning    
+<br>  
+<br>  
+<img src='/images/han_jin.jpg' width="120" style="float: left; margin: 15px">
+<br>
+Jin Han <br>
+Master student <br>
+Feature representation, high dynamic range imaging, deep learning    
 <br>  
 <br>  
 <img src='/images/zhu_wanqing.jpg' width="120" style="float: left; margin: 15px">
