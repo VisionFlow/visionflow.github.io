@@ -21,6 +21,7 @@ If you are interested in working in our group, feel free to send me an email (jl
 
 News
 ======
+[[Paper]](https://ieeexplore.ieee.org/document/9102832) Our work on the UDA model robustness has been accpeted to AAAI 2023.
 [[Paper]](https://ieeexplore.ieee.org/document/9102832) Our work on automatic intermediate image generation for HDR image has been accpeted to IEEE TNNLS 2021.  
 [[Code]](https://github.com/bigmms/prior_guided_network_hdr) Tensorflow implementation for the prior-guided image fusion network.  
 [[Paper]](https://ieeexplore.ieee.org/document/9102832) Our work on prior-guided image fusion network has been accpeted to ICME 2020.  
