@@ -3,7 +3,13 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<img src='/images/yin_tmm20_pcce-1.png' width="170" style="float: left; margin: 15px">
+<img src='/images/yin_iccv2023.png' width="170" style="float: left; margin: 15px">
+**An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability**.  
+Bin Chen, **Jia-Li Yin**, Bo-Hao Chen, and Ximeng Liu
+ICCV 2023
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
+<img src='/images/yin_iccv2023.png' width="170" style="float: left; margin: 15px">
 **Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement**.  
 J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai  
 IEEE Transactions on Multimedia 
