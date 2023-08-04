@@ -9,10 +9,46 @@ Bin Chen, **Jia-Li Yin**, Bo-Hao Chen, and Ximeng Liu
 ICCV 2023
 [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
 <br>
+<img src='/images/yin_mm2023.png' width="170" style="float: left; margin: 15px">
+**MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction**.  
+Luojun Lin, Zhifeng Shen, **Jia-Li Yin**, Qipeng Liu, yuanlong yu, Weijie Chen 
+ACM MM 2023
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
+<img src='/images/yin_tifs2023.png' width="170" style="float: left; margin: 15px">
+**Push Stricter to Decide Better: A Class-Conditional Feature Adaptive Framework for Improving Adversarial Robustness**.  
+**Jia-Li Yin**, Bin Chen, Wanqing Zhu, Bo-Hao Chen, and Ximeng Liu
+IEEE Transactions on Information Forensics and Security (TIFS)
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
+<img src='/images/yin_iccv2023.png' width="170" style="float: left; margin: 15px">
+**SRoUDA: Meta Self-training for Robust Unsupervised Domain Adaptation**.  
+Wanqing Zhu, <b>Jia-Li Yin</b>, Bo-Hao Chen, and Ximeng Liu
+AAAI 2023 
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
+<img src='/images/yin_tpami2023.png' width="170" style="float: left; margin: 15px">
+**Global Learnable Attention for Single Image Super-Resolution**.  
+Jian-Nan Su; Min Gan; Guang-Yong Chen; <b>Jia-Li Yin</b>; C. L. Philip Chen 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
+<img src='/images/yin_tnnls2022.png' width="170" style="float: left; margin: 15px">
+**Automatic Intermediate Generation with Deep Reinforcement Learning for Robust Two-exposure Image Fusion**.  
+Jian-Nan Su; Min Gan; Guang-Yong Chen; <b>Jia-Li Yin</b>; C. L. Philip Chen 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
+<img src='/images/yin_tmm2022.png' width="170" style="float: left; margin: 15px">
+**Global Learnable Attention for Single Image Super-Resolution**.  
+Jian-Nan Su; Min Gan; Guang-Yong Chen; <b>Jia-Li Yin</b>; C. L. Philip Chen 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+[[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
+<br>
 <img src='/images/yin_iccv2023.png' width="170" style="float: left; margin: 15px">
 **Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement**.  
 J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai  
-IEEE Transactions on Multimedia 
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
 <br>
 <br>
