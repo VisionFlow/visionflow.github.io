@@ -16,7 +16,7 @@ Wanqing Zhu, **Jia-Li Yin**; Bo-Hao Chen, Ximeng Liu; SRoUDA: Meta Self-training
 
 Jian-Nan Su; Min Gan; Guang-Yong Chen; **Jia-Li Yin**; C. L. Philip Chen; Global Learnable Attention for Single Image Super-Resolution, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023. 
 
-2021
+2022
 ----
 **Jia-Li Yin**; Bo-Hao Chen ; Yan-Tsung Peng ; Hau Hwang; Automatic Intermediate Generation with Deep Reinforcement Learning for Robust Two-exposure Image Fusion, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**). (In press)
 
