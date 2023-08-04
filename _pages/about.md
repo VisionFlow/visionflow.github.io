@@ -21,9 +21,9 @@ If you are interested in working in our group, feel free to send me an email (jl
 
 News
 ======
-[[Paper]](https://arxiv.org/abs/2212.05917) Our work on the transfer adversarial attack has been accpeted to ICCV 2023.  
+[[Paper]](https://arxiv.org/abs/2212.05917) Our work on the transfer adversarial attack has been accpeted to ICCV 2023. Congrats to Bin Chen! 
 [[Paper]](https://ieeexplore.ieee.org/document/10098264) Our work on improving the trade-off between robustness and clean accuracy has been accpeted to TIFS 2023.  
-[[Paper]](https://arxiv.org/abs/2212.05917) Our work on the UDA model robustness has been accpeted to AAAI 2023.  
+[[Paper]](https://arxiv.org/abs/2212.05917) Our work on the UDA model robustness has been accpeted to AAAI 2023. Congrats to Wanqing Zhu! 
 [[Paper]](https://ieeexplore.ieee.org/document/9102832) Our work on automatic intermediate image generation for HDR image has been accpeted to IEEE TNNLS 2022.  
 
 <!-- Default Statcounter code for group https://visionflow.github.io/ -->
