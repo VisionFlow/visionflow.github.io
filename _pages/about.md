@@ -25,7 +25,6 @@ News
 [[Paper]](https://ieeexplore.ieee.org/document/10098264) Our work on improving the trade-off between robustness and clean accuracy has been accpeted to TIFS 2023.  
 [[Paper]](https://arxiv.org/abs/2212.05917) Our work on the UDA model robustness has been accpeted to AAAI 2023.  
 [[Paper]](https://ieeexplore.ieee.org/document/9102832) Our work on automatic intermediate image generation for HDR image has been accpeted to IEEE TNNLS 2022.  
-[[Award]](https://cloudcdn.taiwantradeshows.com.tw/2019/inst/download/2019-winner.pdf) The proposed image denosing system won the Gold Medal Award in 2019 Taiwan Innotech Expo Invention Contest.
 
 <!-- Default Statcounter code for group https://visionflow.github.io/ -->
 <script type="text/javascript">
