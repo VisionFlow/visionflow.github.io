@@ -6,15 +6,15 @@ author_profile: true
 ---
 2023
 ----
-Bin Chen ; **Jia-Li Yin**; Bo-Hao Chen; Ximeng Liu; An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability, ICCV 2023.
+Bin Chen ; **Jia-Li Yin**; Bo-Hao Chen; Ximeng Liu; An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability, **ICCV** 2023.
 
-Luojun Lin, Zhifeng Shen, **Jia-Li Yin**; Qipeng Liu, yuanlong yu, Weijie Chen; MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction, ACM MM 2023. 
+Luojun Lin, Zhifeng Shen, **Jia-Li Yin**; Qipeng Liu, yuanlong yu, Weijie Chen; MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction, **ACM MM** 2023. 
 
-**Jia-Li Yin**; Bin Chen; Wanqing Zhu; Bo-Hao Chen; Ximeng Liu; Push Stricter to Decide Better: A Class-Conditional Feature Adaptive Framework for Improving Adversarial Robustness, IEEE Transactions on Information Forensics and Security (TIFS), 2023. 
+**Jia-Li Yin**; Bin Chen; Wanqing Zhu; Bo-Hao Chen; Ximeng Liu; Push Stricter to Decide Better: A Class-Conditional Feature Adaptive Framework for Improving Adversarial Robustness, IEEE Transactions on Information Forensics and Security (**TIFS**), 2023. 
 
-Wanqing Zhu, **Jia-Li Yin**; Bo-Hao Chen, Ximeng Liu; SRoUDA: Meta Self-training for Robust Unsupervised Domain Adaptation; AAAI 2023. 
+Wanqing Zhu, **Jia-Li Yin**; Bo-Hao Chen, Ximeng Liu; SRoUDA: Meta Self-training for Robust Unsupervised Domain Adaptation; **AAAI** 2023. 
 
-Jian-Nan Su; Min Gan; Guang-Yong Chen; **Jia-Li Yin**; C. L. Philip Chen; Global Learnable Attention for Single Image Super-Resolution, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. 
+Jian-Nan Su; Min Gan; Guang-Yong Chen; **Jia-Li Yin**; C. L. Philip Chen; Global Learnable Attention for Single Image Super-Resolution, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023. 
 
 2021
 ----
